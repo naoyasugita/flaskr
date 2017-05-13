@@ -1,2 +1,2 @@
 # how to start
-python manage.py runserver:
+python manage.py runserver
